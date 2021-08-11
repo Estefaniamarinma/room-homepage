@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-font: "spartan", sans-serif;
+    --title-font: "spartan", sans-serif;
+
+    
+--Dark-Gray: hsl(0, 0%, 63%)
+--Black: hsl(0, 0%, 0%)
+--White: hsl(0, 0%, 100%)
+--Very Dark Gray: hsl(0, 0%, 27%)
+  
+  }
+  body {
+    font-family: var(--main-font);
+    font-weight: 500px, 600px, 700px;
+    font-size: 12px;
+}  
+
+.home{
+
+}
